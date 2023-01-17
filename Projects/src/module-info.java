@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author edr
- *
- */
-module Projects {
-}
